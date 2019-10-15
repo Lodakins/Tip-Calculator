@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body,html{
+    background-color:#64afd3;
+}
+#calculator{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin:  0 auto;
+    background-color: #fff;
+    padding: 10px 20px;
+   
+}
+input[type="text"],input[type="number"]{
+    width: 100%;
+    margin: 9px 0px;
+    padding: 10px;
+    vertical-align: middle;
+}
+.service-option{
+    width: 100%;
+    margin: 9px 0px;
+    padding: 10px;
+} 
+input[type="submit"]{
+    padding: 10px;
+    border-radius: 10px;
+}
+#tipContainer{
+    border: 2px solid #64afd3;
+}
+
