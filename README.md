@@ -1,0 +1,3 @@
+# Tip-Calculator
+This is a simple tip calculator to know the amount you are likely to get.
+#Enjoy...
